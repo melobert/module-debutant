@@ -35,7 +35,7 @@ function exercice0(prochainClient) { // Ne supprimez/commentez pas cette ligne
   // <===== VOTRE CODE ICI: Insérez/modifiez le code à partir d'ici =====>
   // Utilisez l'instruction prochainClient.mesurerPoids() pour récupérer la valeur du poids du
   // prochain client. N'oubliez pas de mettre les parenthèses "()" à la fin de cette instruction !
-
+  prochainClient.mesurerPoids()
   // Décommentez le code de Tom ci-dessous
   // let poidsClient = prochainClient.mesurerPoids();
   // console.log(poidsClient);
